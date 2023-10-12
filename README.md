@@ -1,11 +1,10 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-align="center">
+<h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Itzcriminal83/Spotify-Downloader">
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Itzcriminal83/Spotify-Downloader"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 [DEMO VERSION  @Spotify_downloa_bot ](https://t.me/Spotify_downloa_bot)
 ### IS THIS STILL MAINTAINING?
